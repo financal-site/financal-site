@@ -1,0 +1,14 @@
+@media(max-width:670px){
+  .menu{
+    width:100%;
+  }
+  .header-top{
+    display:none;
+  }
+  .header-second ul{
+    display:none;
+  }
+  .menu-icon{
+    display:block;
+  }
+}
