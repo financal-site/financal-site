@@ -110,7 +110,7 @@ body{
 }
 .main-top{
   height:500px;
-  background-image:url("zeiri4_l.jpg");
+  background-image:url(/main.jpg);
   background-size:cover;
 }
 .main-top h2{
